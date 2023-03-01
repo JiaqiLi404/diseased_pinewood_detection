@@ -1,0 +1,7 @@
+numpy
+Pillow
+opencv-python
+openpyxl
+ExifRead
+pandas
+pyinstaller

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>Tree4Train</folder>
+	<filename>ill000000078.png</filename>
+	<source>
+		<database>YongKangHangPai</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>122.png</image>
+		<flickrid>IllnessTree</flickrid>
+		<location_x>1500</location_x>
+		<location_y>2500</location_y>
+	</source>
+	<owner>
+		<flickrid>IllnessTree</flickrid>
+		<name>zqw</name>
+	</owner>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>48</segmented>
+	<object>
+		<name>IllnessTree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>334</ymin>
+			<xmax>319</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HealthyTree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>206</ymin>
+			<xmax>549</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
